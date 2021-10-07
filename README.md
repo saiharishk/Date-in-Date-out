@@ -6,7 +6,7 @@ It is assumed that each month has 30 days.
 Inputs - Datein, N  
 Output - Date-out  
 
-N takes a maximum of 63 as input
+N takes a maximum of 63 as input  
 Example outputs:  
   datein=1; N=15; dateout=16 
 	datein=25;N=15; dateout=10 (of the next month)  
